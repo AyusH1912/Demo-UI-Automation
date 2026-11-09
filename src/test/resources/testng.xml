@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Practice Software Testing Suite" verbose="1">
+    <test name="Smoke">
+        <classes>
+            <class name="org.demo.tests.SmokeTest"/>
+        </classes>
+    </test>
+</suite>
